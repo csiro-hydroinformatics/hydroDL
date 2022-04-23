@@ -8,10 +8,10 @@ import matplotlib.gridspec as gridspec
 from hydroDL import utils
 import string
 
-import os
+# import os
 # os.environ[
 #     'PROJ_LIB'] = r'/opt/anaconda/pkgs/proj4-5.2.0-he6710b0_1/share/proj/'
-from mpl_toolkits import basemap
+# from mpl_toolkits import basemap
 
 
 def plotBoxFig(data,
